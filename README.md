@@ -1,33 +1,19 @@
-## Bryn Morgan's github site
+# Bootstrap 4.0 Blog
 
- 
+## Magazine-like blog template with header, navigation, featured content
 
-### Markdown
+![Bootstrap 4 Blog Example](https://cdn.glitch.com/c40f4d75-45fa-4286-aaf9-d91e144fe27d%2Fbootstrap-example-blog.png?1517243248292)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Bootstrap is the world’s most popular framework for building responsive, mobile-first sites. This project is a simple **Blog template** that's one of the official [Bootstrap examples](https://getbootstrap.com/docs/4.0/examples/).
 
 
+### ← /css/blog.css
 
-- Bulleted
-- List
+These are a few simple styles used to complete the styling of the Bootstrap Blog example.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### ← index.html
 
-[Link](url) and ![Image](src)
-```
+This is where you'll find the content of the Bootstrap 4.0 page; remix this project and start editing `index.html` to begin creating your own site. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brynmrgn/web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
